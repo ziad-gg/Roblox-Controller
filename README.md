@@ -1,5 +1,7 @@
 # roblox-controller
 
+<img src="https://cdn.discordapp.com/attachments/898137458825371670/1198730255259680938/Screenshot_from_2024-01-21_23-44-41.png?ex=65bff78c&is=65ad828c&hm=5dd04764b04afb9e4c933b88c15a2cf2df099d98b28f1596950b90d7f505f851&">
+
 ## Table of Contents
 
 - [About](#about)
